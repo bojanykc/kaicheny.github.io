@@ -17,17 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+I am an assistant professor at the Electrical and Computer Engineering department, Michigan Technology University. My research interests lie in deep learning-related cybersecurity, hardware security, and network security.
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+I received my Ph.D. in Electrical Engineering from the University of Florida in 2022, under the supervision of Professor Shuo Wang, Professor Yier Jin, and Professor Yuguang Fang. I received my M.S. (2016) and B.S. (2013) in Information Science from University of Science and Technology of China (USTC) advised by Dr. Chi Zhang. 
+
+I am looking for Ph.D. students who are interested in cybersecurity topics, including but not limited to deep learning security, IoT security, and hardware security. Full financial support in research assistantship (RA) or teaching assistantship (TA) will be offered for qualified students. If interested, please send your CV, transcript(s), and sample publications to Dr. Kaichen Yang at [kaicheny@mtu.edu](kaicheny@mtu.edu). Please refer to [this link](https://www.mtu.edu/ece/graduate/computer/) for the GRE/TOEFL requirements and other application-related information.
+
+For students at Michigan Tech, multiple paid part-time and volunteer research assistant positions are available. If you are interested, please send me your CV and transcripts (unofficial copies are acceptable).
+
   
 
 
